@@ -13,6 +13,8 @@ const DisplayDiv = styled.div`
     font-size: xx-large;
     display: grid;
     overflow-y: auto;
+    background: #051821;
+    color: #F8BC24;
 `
 
 const DisplaySpan = styled.span`

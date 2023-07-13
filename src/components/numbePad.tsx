@@ -12,10 +12,14 @@ const StyledGridContainer = styled(GridContainer)`
     height: 60%;
 `
 
+// Colour scheme: Orange Drip from -> https://hookagency.com/blog/color-schemes/
 const CalButton = styled.button`
     font-size: xx-large;
     width: 100%;
     height: 100%;
+    background: #F58800;
+    border-color: #1A4645;
+    color: azure;
 `
 
 const numbers = "789-456*123/"
